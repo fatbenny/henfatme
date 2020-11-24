@@ -1,6 +1,18 @@
-<?
+<?php
 
-	echo 'php6';
-	echo 'php6';
-	
-?>
+
+
+
+class PreOrder extends Major
+{
+    public function fatfat()
+    {
+
+    }
+
+	public function xia(){
+
+	}
+
+
+}
