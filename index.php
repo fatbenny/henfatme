@@ -11,7 +11,7 @@ class henfatme extends github
     }
 
 	public function xia(){
-		echo 'xia';
+		echo 'xia2';
 	}
 
 
