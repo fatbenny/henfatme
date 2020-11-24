@@ -7,7 +7,7 @@ class henfatme extends github
 {
     public function fatfat()
     {
-		echo 'fatfat';
+		echo 'fatfat2';
     }
 
 	public function xia(){
