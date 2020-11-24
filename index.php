@@ -1,6 +1,6 @@
 <?
 
-	echo 'php4';
-	echo 'php5';
+	echo 'php6';
+	echo 'php6';
 
 ?>
