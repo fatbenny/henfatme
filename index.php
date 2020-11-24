@@ -1,4 +1,4 @@
 <?
-	echo 'php2';
-	echo 'php3';
+	echo 'php4';
+	echo 'php5';
 ?>
