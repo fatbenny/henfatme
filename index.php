@@ -12,7 +12,11 @@ class henfatme extends github
 		echo 'fatfat 功能1';
 		echo 'fatfat 功能2';
     }
+    public function localfat()
+    {
+		echo 'localfat';
 
+    }
 	public function xia(){
 		echo 'xia2';
 	}
